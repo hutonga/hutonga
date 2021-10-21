@@ -1,4 +1,4 @@
-### Hi there 👋
+### My first repository 👋
 
 <!--
 **hutonga/hutonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
